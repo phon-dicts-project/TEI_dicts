@@ -1,6 +1,7 @@
 # Meeting 18.11.2020
 
 * [TEI for dictionaries](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/DI.html)
+* [TEI Lex-0](https://dariah-eric.github.io/lexicalresources/pages/TEILex0/TEILex0.html#senses)
 
 ## Мои ожидания
 
